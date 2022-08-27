@@ -1,4 +1,4 @@
-# com.GuiderSoftCucumber Muarat'tan
+# com.GuiderSoftCucumber Murat'tan
 
 Selamlar
 Sevgiler...
